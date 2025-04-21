@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh AI/ML Developer | Full Stack Enthusiast | Creative Designer</h1>
 <h3 align="center">Turning ideas into code and coffee into features!</h3>
 <p align="left"> <img src = "https://github-profile-trophy.vercel.app/?username=ryo-ma&title=-Stars,-Followers" alt="adarsh8081" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh8081&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh8081" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh8081&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh8081" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh8081" alt="adarsh8081" /></a> </p>
 
